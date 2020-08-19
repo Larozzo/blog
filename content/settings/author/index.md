@@ -1,6 +1,6 @@
 +++
 headless = true
 name = "Larozzo"
-image = "/media/killua-candy.jpg"
+image = "/media/unbenannt.png"
 email = "kiefer.larissa@hotmail.com"
 +++
