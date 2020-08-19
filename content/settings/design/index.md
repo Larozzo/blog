@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = "/media/pikachu-sad-dab.png"
-logo = "/media/killua-candy.jpg"
+logo = "/media/pikachu-sad-dab.png"
 image = "/media/molang-header.jpg"
 color = ""
 +++
