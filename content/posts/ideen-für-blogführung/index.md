@@ -17,4 +17,4 @@ Ich habe mehrere Ideen für den Lernmodus gefunden, einige davon sind:
 
 Für den Arbeitsmodus habe ich Marketing ausgewählt, da ich gerne etwas kreatives machen möchte.
 
-![](blob:https://larozzoblog.netlify.app/cb80f607-6b25-4840-bb4d-ddbc49ca6c3e)
+![](images.png)
