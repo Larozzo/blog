@@ -1,7 +1,7 @@
 +++
 headless = true
 icon = "/media/killua.jpg"
-logo = "/media/killua-candy.jpg"
+logo = "/media/unbenannt.png"
 image = ""
 color = ""
 +++
