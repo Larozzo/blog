@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/killua.jpg"
 logo = "/media/unbenannt.png"
-image = ""
+image = "/media/molang-header.jpg"
 color = ""
 +++
