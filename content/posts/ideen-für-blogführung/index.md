@@ -3,6 +3,7 @@ title = "Ideen für Blogführung"
 date = "2020-08-12"
 draft = false
 pinned = false
+image = "images.png"
 +++
 Heute haben wir im Web-Unterricht Zeit für Brainstorming bekommen um herauszufinden was wir im Lern- und Arbeitsmodus machen wollen.
 
