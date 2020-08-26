@@ -3,7 +3,7 @@ title = "Umfrage in Bern zu unserer Idee"
 date = "2020-08-26"
 draft = false
 pinned = false
-image = "fixer_waste.jpg"
+image = "beauty-fashion-lifestyle.jpg"
 +++
 ### Umfrage
 
