@@ -3,6 +3,7 @@ title = "Besprechung Projektideen"
 date = "2020-09-02"
 draft = false
 pinned = false
+image = "34c7fce23b733d548fc450aab141450a.jpg"
 +++
 #### Fashion Beauty Lifestyle Blog
 
