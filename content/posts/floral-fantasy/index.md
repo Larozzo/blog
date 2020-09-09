@@ -5,7 +5,7 @@ draft = false
 pinned = false
 image = "microsoftteams-image-5-.jpg"
 +++
-Heute habe ich mit Natalia zusammen eine Website für einen Blumenladen auf carrd erstellt. 
+Heute habe ich mit meinem Teammitglied zusammen eine Website für einen Blumenladen auf carrd erstellt. 
 
 Wir haben uns zuerst überlegt, was alles in einen Blumen Webshop gehört und sind dann ins Wankdorf gegangen. Zuerst waren wir im casa, das casa ist ein Laden für die neuesten Interior-trends. Natalia hat auf ihrem Smartphone Bilder von den Blumen im casa gemacht. Danach sind wir noch ins Coop und haben dort weitere Fotos gemacht.
 
