@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/pikachu-sad-dab.png"
 logo = "/media/pikachu-sad-dab.png"
-image = "/media/molang-2.gif"
+image = "/media/molang-3.gif"
 color = ""
 +++
