@@ -2,6 +2,6 @@
 headless = true
 icon = "/media/pikachu-sad-dab.png"
 logo = "/media/pikachu-sad-dab.png"
-image = "/media/cerberus.gif"
+image = "/media/cerberus-2.gif"
 color = ""
 +++
