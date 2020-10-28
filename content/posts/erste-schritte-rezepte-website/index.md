@@ -1,5 +1,5 @@
 +++
-title = "Erste Schritte Rezepte-Website"
+title = "𝔼𝕣𝕤𝕥𝕖 𝕊𝕔𝕙𝕣𝕚𝕥𝕥𝕖 ℝ𝕖𝕫𝕖𝕡𝕥𝕖-𝕎𝕖𝕓𝕤𝕚𝕥𝕖"
 date = "2020-09-09"
 draft = false
 pinned = false
