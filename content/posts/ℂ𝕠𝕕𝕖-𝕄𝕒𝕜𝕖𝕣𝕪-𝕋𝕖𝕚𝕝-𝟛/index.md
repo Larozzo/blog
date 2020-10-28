@@ -10,6 +10,14 @@ Heute haben ich und mein Teammitglied an unserer Website weiter programmiert. Ic
 
 ##### Was habe ich gelernt?
 
-Ich habe gelernt dass eine CSS-Regel aus 3 Elementen besteht, 
+Ich habe gelernt dass eine CSS-Regel aus 3 Elementen besteht, nämlich:
+
+* Selektor
+* Eigenschaft
+* Wert
+
+  ![](3-eigenschaften-css-regel.jpg)
+
+
 
 ![](einführung-3.jpg)
