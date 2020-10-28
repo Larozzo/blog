@@ -1,5 +1,5 @@
 +++
-title = "Ideen für Blogführung"
+title = "𝕀𝕕𝕖𝕖𝕟 𝕗ü𝕣 𝔹𝕝𝕠𝕘𝕗ü𝕙𝕣𝕦𝕟𝕘"
 date = "2020-08-12"
 draft = false
 pinned = false
