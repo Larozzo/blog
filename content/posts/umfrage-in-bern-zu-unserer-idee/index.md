@@ -1,5 +1,5 @@
 +++
-title = "Umfrage in Bern zu unserer Idee"
+title = " 𝕌𝕞𝕗𝕣𝕒𝕘𝕖 𝕚𝕟 𝔹𝕖𝕣𝕟 𝕫𝕦 𝕦𝕟𝕤𝕖𝕣𝕖𝕣 𝕀𝕕𝕖𝕖"
 date = "2020-08-26"
 draft = false
 pinned = false
