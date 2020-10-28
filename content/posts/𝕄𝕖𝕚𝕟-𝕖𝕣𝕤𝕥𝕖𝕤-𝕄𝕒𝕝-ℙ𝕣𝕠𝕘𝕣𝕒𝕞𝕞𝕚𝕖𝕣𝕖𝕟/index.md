@@ -14,4 +14,6 @@ Danach habe ich mit Hilfe von meinem Teammitglied eine Website mit Visual Studio
 
 ![](my-first-website.jpg)
 
+![](programmieren.jpg)
+
 Ich und mein Teammitglied sind uns noch am überlegen, ob wir unsere Essens-Website mithilfe von Visual Studio Core programmieren , oder sie einfach auf wix oder jimdo erstellen.
