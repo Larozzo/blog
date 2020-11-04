@@ -3,7 +3,7 @@ title = "ℂ𝕠𝕕𝕖 𝕄𝕒𝕜𝕖𝕣𝕪 𝕋𝕖𝕚𝕝 𝟛"
 date = "2020-10-28"
 draft = false
 pinned = false
-image = "web-portfolio-2.jpg"
+image = "visual-studio-code.jpg"
 +++
 ##### Tätigkeiten
 
@@ -19,6 +19,6 @@ Ich habe gelernt dass eine CSS-Regel aus 3 Elementen besteht, nämlich:
 
 ![](3-eigenschaften-css-regel.jpg)
 
-
+![](web-portfolio-2.jpg)
 
 ![](einführung-3.jpg)
