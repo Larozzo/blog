@@ -3,7 +3,7 @@ title = "𝔸𝕣𝕖 𝕪𝕠𝕦 𝕓𝕣𝕠𝕜𝕖 𝕒𝕟𝕕 𝕙𝕦�
 date = "2020-12-16"
 draft = false
 pinned = false
-image = "logo.jpg"
+image = "website-min-3-4-.png"
 +++
 #### Unsere Website nimmt Form
 
